@@ -7,7 +7,7 @@ int main()
 {
     printf("Hello_World");
 
-    vector<int> i = {1,2,3,4,5};
+    vector<int> i = {1,2,3,4,5,6};
 
     for(auto a : i){
         printf("i : %i\n",a);
