@@ -10,7 +10,7 @@ int main()
     vector<int> i = {1,2,3,4,5};
 
     for(auto a : i){
-        printf("i = %i\n",a);
+        printf("i : %i\n",a);
     }
 
     return 0;
